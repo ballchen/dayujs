@@ -1,0 +1,25 @@
+{
+  "name": "dayujs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ballchen",
+  "license": "ISC",
+  "dependencies": {
+    "blueimp-md5": "^2.3.0",
+    "lodash": "^4.6.1",
+    "request": "^2.69.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ballchen/dayujs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ballchen/dayujs/issues"
+  },
+  "homepage": "https://github.com/ballchen/dayujs#readme",
+  "description": ""
+}
